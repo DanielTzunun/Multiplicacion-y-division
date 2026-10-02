@@ -1,0 +1,17 @@
+var:int a = 10;
+var:int b = a * 2;
+printv b;
+
+var:int x = 20 / 4;
+printv x;
+
+var: int z = 10 + 20 / 2;
+printv z;
+
+var: int m = 10 * 10;
+printv m;
+
+
+
+var: int h = 20 / 10;
+printv h;
